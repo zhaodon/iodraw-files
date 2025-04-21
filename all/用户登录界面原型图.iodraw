@@ -1,0 +1,55 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram id="B84BwX8f5jPIFRjjb620" name="Page-1">
+    <mxGraphModel dx="5239" dy="1865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ELuROfRh7jPEYIWg2EeA-317" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;microsoft yahei&amp;quot;, simhei, simsun, arial, sans-serif; font-size: 50px; white-space: normal;&quot;&gt;©版权信息&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;microsoft yahei&amp;quot;, simhei, simsun, arial, sans-serif; font-size: 50px;&quot;&gt;©&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#D7D6D6;fontSize=50;verticalAlign=bottom;" parent="1" vertex="1">
+          <mxGeometry x="-1086.5" y="610" width="1920" height="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="ELuROfRh7jPEYIWg2EeA-319" value="xxx系统" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=50;fontFamily=Tahoma;" parent="1" vertex="1">
+          <mxGeometry x="-945.5" y="688" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ELuROfRh7jPEYIWg2EeA-320" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=50;" parent="1" vertex="1">
+          <mxGeometry x="-357" y="1150" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ELuROfRh7jPEYIWg2EeA-321" value="用户中心" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=80;fontFamily=Tahoma;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-287" y="775" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ELuROfRh7jPEYIWg2EeA-322" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=80;labelBorderColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-544" y="948" width="835" height="513" as="geometry" />
+        </mxCell>
+        <mxCell id="ELuROfRh7jPEYIWg2EeA-323" value="用户名" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=40;strokeColor=#d7d6d6;align=left;spacing=25;textOpacity=50;" parent="1" vertex="1">
+          <mxGeometry x="-492" y="1096" width="744" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="ELuROfRh7jPEYIWg2EeA-324" value="密码" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=40;strokeColor=#d7d6d6;align=left;spacing=25;textOpacity=50;" parent="1" vertex="1">
+          <mxGeometry x="-492" y="1210" width="744" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="ELuROfRh7jPEYIWg2EeA-325" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#d7d6d6;fontFamily=Tahoma;fontSize=40;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-494" y="1347.5000000000002" width="51" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="ELuROfRh7jPEYIWg2EeA-326" value="记住我" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=40;fontFamily=Tahoma;" parent="1" vertex="1">
+          <mxGeometry x="-432.5" y="1349.0000000000005" width="130" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ELuROfRh7jPEYIWg2EeA-327" value="登录" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#5894b7;fontFamily=Tahoma;fontSize=40;align=center;fillColor=#3c8dbc;" parent="1" vertex="1">
+          <mxGeometry x="-247" y="1333.5000000000002" width="198" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="ELuROfRh7jPEYIWg2EeA-328" value="注册" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#5894b7;fontFamily=Tahoma;fontSize=40;align=center;fillColor=#3c8dbc;" parent="1" vertex="1">
+          <mxGeometry x="9.5" y="1333.5000000000002" width="198" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="ELuROfRh7jPEYIWg2EeA-329" value="产品&lt;br&gt;二维码" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#5894b7;fillColor=#3c8dbc;fontFamily=Tahoma;fontSize=40;align=center;" parent="1" vertex="1">
+          <mxGeometry x="377.5" y="1495" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ELuROfRh7jPEYIWg2EeA-330" value="产品&lt;br&gt;二维码" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#5894b7;fillColor=#3c8dbc;fontFamily=Tahoma;fontSize=40;align=center;" parent="1" vertex="1">
+          <mxGeometry x="577.5" y="1495" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ELuROfRh7jPEYIWg2EeA-331" value="登录" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=40;fontFamily=Tahoma;" parent="1" vertex="1">
+          <mxGeometry x="-165" y="997.5" width="90" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ELuROfRh7jPEYIWg2EeA-332" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.apple;fillColor=#1B1C1C;strokeColor=none" parent="1" vertex="1">
+          <mxGeometry x="-1030" y="680" width="62.400000000000006" height="76.2" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
